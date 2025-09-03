@@ -1,0 +1,10 @@
+name="ram"
+age=70
+cat=None
+gender="male"
+adult=False
+print(type(name))
+print(type(age))
+print(type(cat))
+print(type(gender))
+print(type(adult))
